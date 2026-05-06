@@ -1,7 +1,7 @@
 ## Giovanni Frontera
 
 Ph.D. in *Psychology of Programming and Artificial Intelligence* (Università della Calabria, 2010).
-Researcher and e-learning platform manager at Unical, with 20+ years of experience in educational technology, adaptive learning systems, and AI-based tutoring tools.
+20+ years of experience in educational technology, adaptive learning systems, and AI-based tutoring tools.
 
 **Research interests:** AI in education · Self-regulated learning · LLM applications for academic research · Intelligent tutoring systems · Inclusive e-learning
 
