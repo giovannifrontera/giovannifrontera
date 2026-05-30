@@ -2,37 +2,45 @@
 
 **Architecting the intersection of Cognitive Psychology and Artificial Intelligence.**
 
-Con una traiettoria di ricerca iniziata oltre vent'anni fa, mi dedico alla progettazione di sistemi che estendono le capacità cognitive umane attraverso l'intelligenza artificiale. La mia visione si focalizza sulla **persistenza della conoscenza** e sullo **scaffolding adattivo**, trasformando l'IA da semplice oracolo a compagno di pensiero a lungo termine.
+---
+
+### 🗺️ Research Roadmap: The Evolution of Learning Intelligence
+
+La mia traiettoria di ricerca è una progressione logica verso sistemi sempre più autonomi, persistenti e pedagogicamente consapevoli.
+
+#### 🔹 2004 — 2012: The Conversational Foundation (The "TutorBot" Era)
+In un'epoca in cui l'IA conversazionale era ancora rudimentale, ho progettato sistemi basati su **AIML** per il monitoraggio e il supporto in linguaggio naturale.
+*   **Milestone:** Sviluppo di TutorBot adattivi per il Web-Learning e integrazione di QR-Codes per il *Situated Learning*.
+
+#### 🔹 2013 — 2019: Collaborative & Inclusive Ecosystems
+Espansione della ricerca verso la dimensione sociale dell'apprendimento e la sostenibilità delle infrastrutture digitali.
+*   **Focus:** ICT per l'educazione speciale (inclusione), strumenti Web 2.0 per il *Collaborative Learning* (e-Highlight) e piattaforme per la sostenibilità (Progetto PAES).
+
+#### 🔹 2020 — Present: Semantic Persistence & Memory Architectures
+L'attuale frontiera: superare l'IA "senza memoria" tramite architetture che uniscono psicologia cognitiva e database vettoriali.
+*   **Current Goal:** Creazione dell'ecosistema **AI-Wiki Memory** e integrazione nativa LTI 1.3 per rendere gli agenti parte integrante del tessuto accademico.
 
 ---
 
 ### 🧠 Strategic Focus
 
-*   **Persistent AI Memory:** Superamento dei limiti del RAG tradizionale attraverso architetture "Wiki-Memory" che permettono agli agenti di evolvere e mantenere una base di conoscenza strutturata.
-*   **Cognitive Scaffolding:** Implementazione di modelli socio-costruttivisti all'interno di ecosistemi digitali per supportare l'apprendimento autoregolato.
-*   **Educational Interoperability:** Integrazione profonda di sistemi intelligenti tramite lo standard LTI 1.3, portando l'IA d'avanguardia all'interno delle infrastrutture accademiche globali.
+*   **Persistent AI Memory:** Superamento dei limiti del RAG tradizionale attraverso architetture "Wiki-Memory" auto-rigeneranti.
+*   **Cognitive Scaffolding:** Implementazione di modelli socio-costruttivisti (Vygotsky/Bruner) all'interno di ecosistemi digitali.
+*   **LTI 1.3 Interoperability:** Portare l'IA d'avanguardia all'interno delle infrastrutture accademiche globali (Moodle, Canvas).
 
 ---
 
-### 🚀 The Wiki-Memory Ecosystem
+### 🚀 Active Ecosystem
 
-Attualmente sto orchestrando un ecosistema open-source volto a ridefinire il modo in cui le AI interagiscono con la conoscenza complessa:
-
-*   **[ia-wiki-lms](https://github.com/giovannifrontera/ia-wiki-lms)** – Un'architettura backend che trasforma i materiali didattici in grafi di conoscenza navigabili, nativamente integrata per Moodle e Canvas.
-*   **[AI Longterm Wiki Memory](https://github.com/giovannifrontera/ai-longterm-wiki-memory-ClaudeCode)** – Una soluzione di memoria semantica a lungo termine per agenti Claude Code, focalizzata sull'autonomia e sulla sintesi della conoscenza.
-*   **[Academic PRISMA Workflow](https://github.com/giovannifrontera/academic-PRISMA-research-workflow)** – Framework assistito dall'IA per l'automazione rigorosa delle revisioni sistematiche della letteratura.
+*   **[ia-wiki-lms](https://github.com/giovannifrontera/ia-wiki-lms)** – Backend LTI 1.3 che trasforma materiali statici in ecosistemi di conoscenza navigabili.
+*   **[AI Longterm Wiki Memory](https://github.com/giovannifrontera/ai-longterm-wiki-memory-ClaudeCode)** – Memoria semantica a lungo termine per agenti AI.
+*   **[Academic PRISMA Workflow](https://github.com/giovannifrontera/academic-PRISMA-research-workflow)** – Automazione delle revisioni sistematiche della letteratura.
 
 ---
 
 ### 📜 Heritage & Vision
 
-La mia ricerca ha radici profonde: nel **2004** progettavo i primi **TutorBot basati su AIML**, esplorando il potenziale del linguaggio naturale nella didattica quando l'IA era ancora un campo di nicchia. Questa prospettiva storica mi permette oggi di distillare il "rumore" tecnologico e concentrarmi su ciò che conta davvero: la creazione di strumenti che potenziano l'intelletto umano in modo etico e sostenibile.
-
----
-
-### 🛠️ Core Stack
-
-`Python` · `FastAPI` · `TypeScript` · `LanceDB` · `PostgreSQL` · `LTI 1.3` · `Cognitive Modeling`
+La mia prospettiva nasce nel **2004**, studiando la psicologia della programmazione e l'interazione uomo-macchina. Questo mi permette oggi di filtrare l'hype tecnologico e concentrarmi sull'essenza: come l'IA può effettivamente potenziare l'intelletto umano senza sostituirlo.
 
 ---
 
